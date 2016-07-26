@@ -205,7 +205,6 @@
 				TargetAttributes = {
 					19412A2D1D279D52004370D5 = {
 						CreatedOnToolsVersion = 7.3.1;
-						DevelopmentTeam = S6KKA3TSYZ;
 					};
 					19412A411D279D52004370D5 = {
 						CreatedOnToolsVersion = 7.3.1;
@@ -417,13 +416,13 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: Yang Zhang (MNPG5JKYW9)";
 				INFOPLIST_FILE = "TF-Swift-Image-Picker/Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.lanou3g.TF-Swift-Image-Picker";
+				PRODUCT_BUNDLE_IDENTIFIER = zuojianjun.com.ci.t1;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "";
+				PROVISIONING_PROFILE = "a5bb7624-d8fb-4647-8c41-73107ca41bae";
 			};
 			name = Debug;
 		};
@@ -432,13 +431,13 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: Yang Zhang (MNPG5JKYW9)";
 				INFOPLIST_FILE = "TF-Swift-Image-Picker/Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.lanou3g.TF-Swift-Image-Picker";
+				PRODUCT_BUNDLE_IDENTIFIER = zuojianjun.com.ci.t1;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "";
+				PROVISIONING_PROFILE = "a5bb7624-d8fb-4647-8c41-73107ca41bae";
 			};
 			name = Release;
 		};
@@ -507,6 +506,7 @@
 				19412A581D279D52004370D5 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		19412A591D279D52004370D5 /* Build configuration list for PBXNativeTarget "TF-Swift-Image-PickerTests" */ = {
 			isa = XCConfigurationList;
@@ -515,6 +515,7 @@
 				19412A5B1D279D52004370D5 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		19412A5C1D279D52004370D5 /* Build configuration list for PBXNativeTarget "TF-Swift-Image-PickerUITests" */ = {
 			isa = XCConfigurationList;
@@ -523,6 +524,7 @@
 				19412A5E1D279D52004370D5 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
