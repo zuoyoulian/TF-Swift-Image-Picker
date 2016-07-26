@@ -415,7 +415,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				CODE_SIGN_IDENTITY = "iPhone Developer";
+				CODE_SIGN_IDENTITY = "iPhone Developer: Yang Zhang (MNPG5JKYW9)";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: Yang Zhang (MNPG5JKYW9)";
 				INFOPLIST_FILE = "TF-Swift-Image-Picker/Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
@@ -430,7 +430,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				CODE_SIGN_IDENTITY = "iPhone Developer";
+				CODE_SIGN_IDENTITY = "iPhone Developer: Yang Zhang (MNPG5JKYW9)";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: Yang Zhang (MNPG5JKYW9)";
 				INFOPLIST_FILE = "TF-Swift-Image-Picker/Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
